@@ -1,4 +1,4 @@
-using OfficeOpenXml;
+﻿using OfficeOpenXml;
 using System.Data;
 using System.Net.Mail;
 
@@ -27,4 +27,3 @@ public class WeatherForecast
         return attachment;
     }
 }
-
